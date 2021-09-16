@@ -12,9 +12,7 @@
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div>
-  
-  ##
-  
-  <div>
-   ![Snake animation](https://github.com/GustavoFelip/GustavoFelip/blob/output/github-contribution-grid-snake.svg)
+ 
+ ## <div>
+   ![Snake animation](https://github.com/gustavofelip/gustavofelip/blob/output/github-contribution-grid-snake.svg)
 </div>
