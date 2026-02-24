@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Gustavo+Felipe&Size=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <div align="center">
 
-**`Desenvolvedor FullStack`**
+**<h2>`Desenvolvedor FullStack`</h2>**
 
- <img  src="C:\Users\gusta\Pictures\Justin Timberlake GIF by Coolidge Corner Theatre.gif">
-
-
-</div>
+<br></br>
+ <img  src="The Social Network.gif">
+<br></br>
 
 <div align="left">
 
