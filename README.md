@@ -49,7 +49,7 @@
 | ![Stats](https://github-readme-stats-two-indol-60.vercel.app/api?username=GustavoFelip&show=prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=github_dark&hide_border=true) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavofelip&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoFelip&theme=github_dark) |
 |:-:|:-:|:-:|
 
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFelip&theme=github_dark&utcOffset=-3) |
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoFelip&theme=github_dark) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoFelip&theme=github_dark&utcOffset=-3) |
 |:-:|:-:|
 
 </div>
