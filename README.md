@@ -1,28 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Gustavo+Felipe&Size=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+
 <div align="center">
 
-**<h2>`Desenvolvedor FullStack`</h2>**
+**<h1>`Desenvolvedor FullStack`</h1>**
+  
 
-<br></br>
- <img  src="The Social Network.gif">
+
+ <img src="The Social Network.gif">
 <br></br>
 
 <div align="left">
-
 🎓 Estudante de Informática para Negócios na FATEC  
 💻 Formado em Técnico em Informática para Internet pela ETEC  
 🎯 Sempre em busca de novos desafios que me façam evoluir como desenvolvedor  
 🌍 Interessado em construir soluções que façam a diferença no dia a dia das pessoas
-
 </div>
 
-<div align="center">
-
-Olá! :)
-Me chamo Gustavo, sou formado no curso técnico de Informática para a Internet e sou apaixonado pela área da tecnologia. Atualmente, curso Informática para Negócios na FATEC, onde venho expandindo meus conhecimentos nas áreas de tecnologia, gestão e economia.
-
-
+<br></br>
 
 <p align="center">
     <a href="https://github.com/GustavoFelip">
@@ -37,79 +32,27 @@ Me chamo Gustavo, sou formado no curso técnico de Informática para a Internet 
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
 </p>
+<div align="center">
+<br></br>
 
----
+## Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
+<div align="start">
+  <img alt="Tech Icons" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ps,py,react,nextjs,mysql,git,figma,aws,wordpress" height="70" />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
+<br></br>
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoFeliph&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFelip&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+| ![Stats](https://github-readme-stats-two-indol-60.vercel.app/api?username=GustavoFelip&show=prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=github_dark&hide_border=true) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavofelip&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoFelip&theme=github_dark) |
+|:-:|:-:|:-:|
 
-</p>
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DJFCoder&theme=github_dark) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DJFCoder&theme=github_dark&utcOffset=-3) |
+|:-:|:-:|
+
+</div>
 
 
 ## <div>
