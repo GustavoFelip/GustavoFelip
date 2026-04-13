@@ -42,6 +42,7 @@
 </div>
 
 <br>
+
 ### 📊 Estatísticas
 
 <div align="center">
