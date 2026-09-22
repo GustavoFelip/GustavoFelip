@@ -7,18 +7,21 @@
 </div>
 <br></br>
 
-<div align="left" style="overflow: hidden; display: flex; align-items: center; justify-content: center; gap: 24px;">
-  <div style="flex: 1; min-width: 0;">
-    <h2 align="left" style="margin: 0 0 12px 0;">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
-    <p style="margin: 0; line-height: 1.6;">
-      Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
-    </p>
-  </div>
-  <img alt="" width="390" height="200px" src="The Social Network.gif" style="flex-shrink: 0; border-radius: 12px; align-self: flex-end; margin-top: 28px;">
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <h2 align="left">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
+      <p>
+        Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
+      </p>
+    </td>
+    <td valign="middle" width="420">
+      <img alt="" width="390" height="200px" src="The Social Network.gif">
+    </td>
+  </tr>
+</table>
 
-<br clear="right">
-<p align="left" style="margin-left: 70px;">
+<p align="center">
     <a href="https://github.com/GustavoFelip">
         <img height="32px" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GustavoFelip">
     </a>
