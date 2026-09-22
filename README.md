@@ -2,48 +2,49 @@
 
 <div align="center">
 
-**<h1>`Desenvolvedor FullStack`</h1>**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+FULL+STACK;FRONT+%C2%B7+BACK+%C2%B7+DESIGN;)](https://git.io/typing-svg)
 
+</div>
 
-<br></br>
- <img src="The Social Network.gif">
-<br></br>
+<div align="center">
+  <h3> Olá! Eu sou Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.
 
-<div align="left">
-🎓 Estudante de Informática para Negócios na FATEC
-
-💻 Formado em Técnico em Informática para Internet pela ETEC  
-🎯 Sempre em busca de novos desafios que me façam evoluir como desenvolvedor  
-🌍 Interessado em construir soluções que façam a diferença no dia a dia das pessoas
+  Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.<h3>
 </div>
 <br>
+<br>
+
+
+<div align="center">
+  <img alt="" height="200px" src="The Social Network.gif">
+</div>
 
 </br>
 <p align="center">
     <a href="https://github.com/GustavoFelip">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GustavoFelip">
+        <img height="32px" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GustavoFelip">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:gustavofelipe.comercial@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavofelipe.comercial@gmail.com">
+        <img height="32px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavofelipe.comercial@gmail.com">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gustavo-felipe10/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavofelipefb/">
+        <img height="32px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gustavofelipefb/">
     </a>
 </p>
 <div align="center">
 <br>
 
-## Linguagens e Tecnologias
+<h1 align="center">My Stack</h1>
 
-<div align="start">
-  <img alt="Tech Icons" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ps,py,react,nextjs,mysql,git,figma,aws,wordpress" height="70" />
+<div align="center">
+  <img alt="Tech Icons" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,figma,wordpress,mysql,ps,ai,pr" height="70" />
 </div>
 
 <br>
 
-### 📊 Estatísticas
+<h1>GitHub Stats</h1>
 
 <div align="center">
 
