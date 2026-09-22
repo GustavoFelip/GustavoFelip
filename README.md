@@ -7,20 +7,16 @@
 </div>
 <br></br>
 
-<table>
-  <tr>
-    <td valign="middle">
-      <h2 align="left">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
-      <p>
-        Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
-      </p>
-    </td>
-    <td valign="middle" width="420">
-      <img alt="" width="390" height="200px" src="The Social Network.gif">
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img align="right" alt="" width="390" height="200px" src="The Social Network.gif" style="margin-left: 20px; margin-top: 10px;">
+  <h2 align="left">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
+  <p>
+    Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
+  </p>
+</div>
 
+<br clear="right">
+<br></br>
 <p align="center">
     <a href="https://github.com/GustavoFelip">
         <img height="32px" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GustavoFelip">
@@ -58,6 +54,13 @@
 </div>
 
 <br></br>
+
+## <div>
+   ![Snake animation](https://github.com/gustavofelip/gustavofelip/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+ </div>
 
 ## <div>
    ![Snake animation](https://github.com/gustavofelip/gustavofelip/blob/output/github-contribution-grid-snake.svg)
