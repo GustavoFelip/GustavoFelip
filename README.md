@@ -1,26 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Gustavo+Felipe&Size=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Gustavo+Felipe&Size=15&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+FULL+STACK;FRONT+%C2%B7+BACK+%C2%B7+DESIGN;)](https://git.io/typing-svg)
 
 </div>
+<br></br>
 
-<div align="center">
-  <h3> Olá! Eu sou Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.
-
-  Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.<h3>
-</div>
-<br>
-<br>
-
-
-<div align="center">
-  <img alt="" height="200px" src="The Social Network.gif">
+<div align="left" style="overflow: hidden; display: flex; align-items: center; justify-content: center; gap: 24px;">
+  <div style="flex: 1; min-width: 0;">
+    <h2 align="left" style="margin: 0 0 12px 0;">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
+    <p style="margin: 0; line-height: 1.6;">
+      Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
+    </p>
+  </div>
+  <img alt="" width="390" height="200px" src="The Social Network.gif" style="flex-shrink: 0; border-radius: 12px; align-self: flex-end; margin-top: 28px;">
 </div>
 
-</br>
-<p align="center">
+<br clear="right">
+<p align="left" style="margin-left: 70px;">
     <a href="https://github.com/GustavoFelip">
         <img height="32px" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GustavoFelip">
     </a>
