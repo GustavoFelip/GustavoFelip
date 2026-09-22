@@ -39,7 +39,7 @@
 <h1 align="center">My Stack</h1>
 
 <div align="center">
-  <img alt="Tech Icons" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,figma,wordpress,mysql,ps,ai,pr" height="70" />
+  <img alt="Tech Icons" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,kotlin,git,figma,wordpress,mysql,ps,ai,pr" height="70" />
 </div>
 
 <br>
