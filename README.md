@@ -14,7 +14,7 @@
     <td valign="middle">
       <h2 align="left">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
       <p>
-        Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design, Programação e Hardware, além de ter interesse em Redes.
+        Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design e Programação.
       </p>
     </td>
     <td valign="middle" width="420">
