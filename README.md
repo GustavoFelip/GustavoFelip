@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Gustavo+Felipe&Size=15&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:12000d,95:0AD50A&height=220&section=header&text=Gustavo%20Felipe&fontSize=55&fontColor=ffffff&fontAlignY=38&desc%20&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+FULL+STACK;FRONT+%C2%B7+BACK+%C2%B7+DESIGN;)](https://git.io/typing-svg)
@@ -12,7 +11,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h2 align="left">Olá! Eu me chamo Gustavo Felipe, tenho 21 anos e sou de São Paulo, Brasil.</h2>
+      <h2 align="left">Olá! Eu me chamo Gustavo Felipe, sou de São Paulo, Brasil.</h2>
       <p>
         Sou formado em Gestão de Tecnologia pela Faculdade de Tecnologia do Estado de São Paulo (FATEC) e em Técnico em Informática pela ETEC. Sou apaixonado por tecnologia e extremamente curioso. Gosto muito de Design e Programação.
       </p>
