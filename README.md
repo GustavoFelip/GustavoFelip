@@ -64,9 +64,9 @@
 <h2 align="center">Contribuições em modo Galaga 🚀</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph.svg">
-  <img alt="Galaga com minhas contribuições no GitHub" src="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph.svg?v=2">
+  <img alt="Galaga com minhas contribuições no GitHub" src="https://raw.githubusercontent.com/GustavoFelip/GustavoFelip/output/galaga-contribution-graph.svg?v=2" width="100%">
 </picture>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
