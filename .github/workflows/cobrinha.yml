@@ -27,6 +27,34 @@ jobs:
           github_user_name: GustavoFelip
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: galaga
+      - name: Aumentar os meses do calendario
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          ET.register_namespace('', 'http://www.w3.org/2000/svg')
+          months = {'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'}
+          for path in Path('dist').glob('galaga-contribution-graph*.svg'):
+              tree = ET.parse(path)
+              root = tree.getroot()
+              width = float(root.attrib['width'])
+              height = float(root.attrib['height'])
+              root.set('viewBox', f'0 -24 {width:g} {height + 24:g}')
+              root.set('height', f'{height + 24:g}')
+              labels = 0
+              for text in root.iter('{http://www.w3.org/2000/svg}text'):
+                  if (text.text or '').strip() in months:
+                      text.set('font-size', '22')
+                      text.set('font-weight', '600')
+                      text.set('font-family', 'Arial, sans-serif')
+                      text.set('y', '-6')
+                      text.set('x', str(max(24, min(width - 24, float(text.attrib['x'])))))
+                      text.set('fill', '#e6edf3' if '-dark' in path.name else '#24292f')
+                      labels += 1
+              if not labels:
+                  raise RuntimeError(f'Nenhum mes encontrado em {path}')
+              tree.write(path, encoding='unicode')
+          PY
       - name: Publicar animacoes
         uses: crazy-max/ghaction-github-pages@v4
         with:
