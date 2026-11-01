@@ -1,23 +1,34 @@
-name: Generate Datas
+name: Atualizar Galaga
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 9 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/cobrinha.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: galaga-contribution-graph
+  cancel-in-progress: false
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Gerar Galaga
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: GustavoFelip
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: galaga
+      - name: Publicar animacoes
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
