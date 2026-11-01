@@ -53,7 +53,7 @@ jobs:
                       labels += 1
               if not labels:
                   raise RuntimeError(f'Nenhum mes encontrado em {path}')
-              tree.write(path, encoding='unicode')
+              tree.write(path.with_name(path.stem + '-large.svg'), encoding='unicode')
           PY
       - name: Publicar animacoes
         uses: crazy-max/ghaction-github-pages@v4
